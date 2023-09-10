@@ -1,5 +1,8 @@
 package observer;
-
+/**
+ * @author seannary
+ * The main driver class for golf tracker program.
+ */
 import java.util.Scanner;
 
 public class GolfDriver {
